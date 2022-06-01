@@ -1,0 +1,8 @@
+1. Go to your OS's command line.
+
+2. Navigate to the directory with the output file "CPSC351 Assignment 2, Option 2".
+This can be done with by typing and entering "cd [folder name]" and "cd .." into the terminal.
+
+3. Once you are in the correct directory, type "./ "CPSC351 Assignment 2, Option 2" [OUTPUT FILE NAME]" and press "Enter".
+
+4. The program should print out the contents of an assorted array that was created by merging two arrays / threads together into the specified output file.
